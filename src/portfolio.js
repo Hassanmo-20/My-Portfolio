@@ -23,7 +23,7 @@ const greeting = {
   username: "Hassan Mohamed",
   title: "Hi all, I'm Hassan",
   subTitle: emoji(
-    "Computer and Communication Engineering student with strong foundations in backend development, object-oriented design, and database systems. Experienced in building scalable applications using Spring Boot, ASP.NET Core, and SQL, with a competitive programming background and proven problem-solving abilities. 🚀"
+    "Computer and Communication Engineering student with strong foundations in backend development, object-oriented design, and database systems. Experienced in building scalable applications using ASP.NET Core and SQL, with a competitive programming background and proven problem-solving abilities. 🚀"
   ),
   resumeLink: "", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
@@ -50,7 +50,7 @@ const skillsSection = {
   subTitle: "BACKEND DEVELOPER PASSIONATE ABOUT BUILDING SCALABLE AND ROBUST APPLICATIONS",
   skills: [
     emoji(
-      "⚡ Build scalable backend services using Spring Boot and ASP.NET Core with RESTful APIs"
+      "⚡ Build scalable backend services using ASP.NET Core with RESTful APIs"
     ),
     emoji("⚡ Design and manage relational databases with SQL Server"),
     emoji(
